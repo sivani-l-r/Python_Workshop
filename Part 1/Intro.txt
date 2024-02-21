@@ -1,0 +1,4 @@
+Download Python - https://www.python.org/downloads/
+
+Download Pycharm - https://www.jetbrains.com/pycharm/download/?section=windows
+
